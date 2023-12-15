@@ -8,6 +8,9 @@
 
 ## Tech used: ![HTML5 BADGE](https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5)![CSS BADGE](https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3)![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript)![EXPRESS BADGE](https://img.shields.io/static/v1?label=|&message=ELASTIC%20PATH&color=bbb111&style=plastic&logo=express)
 
+## Demo Video: <a href="https://www.youtube.com/watch?v=RvgEAVtpYsw">View Here</a>
+<a href="https://www.youtube.com/watch?v=RvgEAVtpYsw"><img src="https://github.com/CharlesCreativeContent/myimages/blob/main/images/mq2.webp?raw=true"></a>
+
 ## Installation
 
 1. Clone repo
