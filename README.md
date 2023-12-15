@@ -25,7 +25,7 @@
 3. Once your store is ready you can use their postman collection to integrate their api - https://elasticpath.dev/docs/commerce-cloud/api-overview/test-with-postman-collection
 
 ## Optimizations and Lessons Learned: <a href="https://www.youtube.com/watch?v=mDp7Mx39Tz4">View Here</a>
-<a href="https://www.youtube.com/watch?v=mDp7Mx39Tz4"><img src="https://github.com/CharlesCreativeContent/myimages/blob/main/images/mq2.webp?raw=true"></a>
+<a href="https://www.youtube.com/watch?v=mDp7Mx39Tz4"><img src="https://github.com/CharlesCreativeContent/myimages/blob/main/images/mq1.webp?raw=true"></a>
 <br>
 The main goal of this take home was to get the functionality done without worrying about adding complexity. In order to do that i decided to simply interact with the API using javascript instead of using node.js and building out backend infrasture or using frameworks such as next.js etc. Hopefully before you see these videos I will have edited in background music, intros, and outros, to really make these videos pop. But If I haven't by time you have checked this repository, Thank you for your patience.
 
