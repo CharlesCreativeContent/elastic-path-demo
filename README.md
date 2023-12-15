@@ -22,7 +22,7 @@
 3. Once your store is ready you can use their postman collection to integrate their api - https://elasticpath.dev/docs/commerce-cloud/api-overview/test-with-postman-collection
 
 ## Optimizations and Things I Learned
-<a href="https://www.youtube.com/watch?v=RvgEAVtpYsw"><img src="placekitten.com/300/300"></a>
+<a href="https://www.youtube.com/watch?v=RvgEAVtpYsw"><img src="https://github.com/CharlesCreativeContent/myimages/blob/main/images/mq2.webp?raw=true"></a>
 
 ## More Projects
 
