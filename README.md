@@ -21,6 +21,9 @@
 
 3. Once your store is ready you can use their postman collection to integrate their api - https://elasticpath.dev/docs/commerce-cloud/api-overview/test-with-postman-collection
 
+## Optimizations and Things I Learned
+<video src="https://www.youtube.com/watch?v=RvgEAVtpYsw" controls="true"></video>
+
 ## More Projects
 
 <table bordercolor="#66b2b2">
