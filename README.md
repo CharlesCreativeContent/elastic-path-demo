@@ -8,13 +8,18 @@ JavaScript Ecommerce application using the Elastic Path Composable Commerce API
 
 ## Tech used: ![HTML5 BADGE](https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5)![CSS BADGE](https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3)![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript)![EXPRESS BADGE](https://img.shields.io/static/v1?label=|&message=ELASTIC%20PATH&color=bbb111&style=plastic&logo=express)
 
-
-
-
 ## Installation
 
 1. Clone repo
 2. Open index.html file
+
+## Elastic Path API
+
+1. You can signup to use the API here - https://useast.cm.elasticpath.com/free-trial
+
+2. After signup you can fill in their content management system with your store information - https://useast.cm.elasticpath.com/
+
+3. Once your store is ready you can use their postman collection to integrate their api - https://elasticpath.dev/docs/commerce-cloud/api-overview/test-with-postman-collection
 
 ## More Projects
 
