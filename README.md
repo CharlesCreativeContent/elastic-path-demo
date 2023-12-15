@@ -26,6 +26,7 @@
 
 ## Optimizations and Lessons Learned: <a href="https://www.youtube.com/watch?v=RvgEAVtpYsw">View Here</a>
 <a href="https://www.youtube.com/watch?v=RvgEAVtpYsw"><img src="https://github.com/CharlesCreativeContent/myimages/blob/main/images/mq2.webp?raw=true"></a>
+
 The main goal of this take home was to get the functionality done without worrying about adding complexity. In order to do that i decided to simply interact with the API using javascript instead of using node.js and building out backend infrasture or using frameworks such as next.js etc. Hopefully before you see these videos I will have edited in background music, intros, and outros, to really make these videos pop. But If I haven't by time you have checked this repository, Thank you for your patience.
 
 ## More Projects
