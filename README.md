@@ -14,6 +14,9 @@
 ## Installation
 
 1. Clone repo
+```
+git clone https://github.com/CharlesCreativeContent/elastic-path-demo.git
+```
 2. Open index.html file
 
 ## Elastic Path API
